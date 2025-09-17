@@ -1,16 +1,17 @@
-## Hi there 👋
+# Steven Hirsch
 
-<!--
-**stevenhirsch/stevenhirsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD in Biomechanics**
 
-Here are some ideas to get you started:
+I work at the intersection of biomechanics, machine learning, and strength & conditioning, focusing on translating research to practice. My expertise spans human motion analysis, exercise science, and applied AI for sports and fitness applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Technical Interests
+- Bayesian statistical modeling and uncertainty quantification
+- Computer vision for exercise analysis and movement tracking
+- Biomechanical data processing and scientific computing
+- Reproducible research methodologies and open science
+
+## Connect
+- 🌐 [stevenhirsch.ca](https://stevenhirsch.ca)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=ON5nvBkAAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/steven-m-hirsch/)
+- 🦋 [@stevenhirsch.bsky.social](https://bsky.app/profile/stevenhirsch.bsky.social)
