@@ -1,6 +1,6 @@
 # Steven Hirsch
 
-**Data Science Team Manager @ Tonal | PhD in Biomechanics**
+**Data Science & AI | PhD in Biomechanics**
 
 I work at the intersection of biomechanics, machine learning, and strength & conditioning, focusing on translating research to practice. My expertise spans human motion analysis, exercise science, and applied AI for sports and fitness applications.
 
