@@ -6,6 +6,7 @@ I work at the intersection of biomechanics, machine learning, and strength & con
 
 ## Research & Technical Interests
 - Biomechanical data processing and scientific computing
+- Application of AI for health, fitness, and human performance applications
 - Computer vision for exercise analysis and movement tracking
 - Bayesian statistical modeling and uncertainty quantification
 - Reproducible research methodologies and open science
